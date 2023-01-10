@@ -1,6 +1,6 @@
 # RusTextMorpher v1.2
 
- An engine to obscure and depersonalize user's text for russian and english languages.
+ An engine to obscure and depersonalize user's text for russian and english languages with advanced obfuscations.
  Скрипт для офбускации и деперсонализации пользовательского текста.
 
  An engine let to configure obfuscation methods and return a similararity bitween original and obscured text.
@@ -31,6 +31,8 @@
 * shuffle_errors = True
 * shuffle_translit = True
 
+### TODO:
+- Add replacements with words alternatives.
 
 ### Examples:
 
