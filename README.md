@@ -36,61 +36,61 @@
 
 ### Examples:
 
-============ Original text: =================
+/============ Original text: =================
 It may be audacious even to attempt a definition of his greatness, but it is not so difficult to describe the gifts that enabled him to create imaginative visions of pathos and mirth that, whether read or witnessed in the theatre, fill the mind and linger there. He is a writer of great intellectual rapidity, perceptiveness, and poetic power. 
 
-=============================================
+/=============================================
 Original Language detection:  en
-============ Obfuscated text: ===============
+/============ Obfuscated text: ===============
 iТ may be audaсiоUs even То aтТEmрТ a definiТiОn оf his greaтness, buТ iТ iS nоТ Sо
 DIffiсulТ То DesсRibe Тhe gifТs ТHaТ enabled him То сreaТe imAginaТive vIsIоNs оf
 рaТHОS and mirтh ТhaТ, whEТher read оO WiтnEsseD In тhe ТheaТrP, fiLl Тhe mINd And
 linger Тhere. HE is a wRIТer Af GrEAТ iNТelleстual raрidiТy, рerсEрТiveneSs, and
 рОEтiс роweR.
-=============================================
+/=============================================
 Obscured Language detection:  en
 Similararity: 0.22674418604651161
-=============================================
+/=============================================
 
 ...
 
-============ Obfuscated text: ===============
+/============ Obfuscated text: ===============
 It măy uę ăudăciōus Ęvęn Tō ĂtTęmpt ă dęFinitiōn ōf his gręătnęos, But it is Nōt sō difficult Tō
 dęscribę Thę gifts thăt ęnăBlĘd Him tō cręătę imăgiNătiVę viSiōns ōF păthōs ĂnD Mirth thăt, whęthĘr
 rĘăd ōr witnęssĘd In thę tHęătrę, filL thę mind ĂNd Lingęr thĘrę; Нę is ă writęr ōf Gręăt
 inTęllęcTuăl răpOditY, pęrcęPtivęnęsS, ănd pōĘtic pōwęr;
-=============================================
+/=============================================
 Obscured Language detection:  en
 Similararity: 0.0377906976744186
-=============================================
+/=============================================
 
 ...
 
-============ Original text: =================
+/============ Original text: =================
 Суперхит-инструкция к простой жизни: сказать «нет», когда нужно, сделать из неудач мост к переменам или радоваться, с легкостью решая любые проблемы.
 Нескучная философия: офисный работник, погрязший в рутине, забредает в кафе «Почему». Здесь он находит новый смысл жизни и осознает свои желания.
 
-=============================================
+/=============================================
 Original Language detection:  ru
 ============ Obfuscated text: ===============
 SupeRhit-instrUktsija k pRosToj zhizNi: Skazat' «net», koGda nuzhno, sdelat' iz neuDaCh Most k
 PerEmEnam iLA radovFt'sja, s leGKost'ju rEshaja ljubyeSPRoblemy. neskuchnaja filOsofija: ofisnYj
 raBotnik, poGRjAzshij v Rutine, zABrEdaeT V Kafe «Pochemu». ZdEs' On nahodit novyj smysl zHizni i
 osoznaEt svoi zhElAnija.
-=============================================
+/=============================================
 Obscured Language detection:  sl
 similararity: 0.05245901639344262
-=============================================
+/=============================================
 ...
-============ Obfuscated text: ===============
+/============ Obfuscated text: ===============
 СуПерxит-инсТрУкция к прoсТoй жизни: сказатЬ «нЕт», кOгда НУжнO, сделАТЬ ИT нzУДаЧ мoст к
 переменам Или раДOваться, с легкoстью РЕШая любые прoблЕмы. неСкучная филoсoфия: Oфисный
 рАбoтник, пoVрязшиЙ в РУтине, ЗабреДаеТ в кафЕ «пoчему». здесЬ oн наxoдит нOвыЙ смысл жизНи и
 oсOзнает сВoи жеЛания.
-=============================================
+/=============================================
 Obscured Language detection:  ru
 Similararity: 0.3147208121827411
-=============================================
+/=============================================
 
 ....
 
